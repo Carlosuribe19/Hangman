@@ -1,8 +1,8 @@
-able
-about
-account
-acid
-across
+Sometimes
+Often
+Always
+Ocassionally
+Never
 act
 addition
 adjustment
